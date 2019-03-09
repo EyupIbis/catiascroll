@@ -141,17 +141,17 @@ section#home {
   }
   
   section#prijslijst {
-    background: url(/images/background.jpg) no-repeat top center/cover;
+    background: url(images/background.jpg) no-repeat top center/cover;
     background-size: 50%;
   }
   
   section#fotos {
-    background: url(/images/background.jpg) no-repeat center center/cover;
+    background: url(images/background.jpg) no-repeat center center/cover;
     background-size: 50%;
   }
   
   section#contact {
-    background: url(/images/background.jpg) no-repeat bottom center/cover;
+    background: url(images/background.jpg) no-repeat bottom center/cover;
     background-size: 50%;
   }
 
